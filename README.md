@@ -2,5 +2,5 @@
 ### Projet 6
 
 ---
-Database owner : Openclassroom
+Database owner : Openclassroom  
 License : CC BY-NC-SA 4.0
