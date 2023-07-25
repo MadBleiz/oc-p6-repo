@@ -1,3 +1,2 @@
-
-<h1 style='color:blue;'>OPENCASSROOM - DATA ANALYST</h1>
+# OPENCASSROOM - DATA ANALYST
 #### Projet 6
